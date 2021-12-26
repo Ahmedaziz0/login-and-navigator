@@ -1,2 +1,2 @@
 # login-and-navigator
-create login screen ang navigate then retrieve data from api 
+create login screen and navigate then retrieve data from api 
